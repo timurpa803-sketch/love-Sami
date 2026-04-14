@@ -51,7 +51,7 @@ export default function App() {
         >
           Я так и знал ❤️
         </motion.h1>
-        <p>Ты нажал ДА 😏</p>
+        <p>Люблю тебя ❤️ </p>
       </div>
     );
   }
@@ -69,7 +69,7 @@ export default function App() {
       color: "white"
     }}>
       <motion.h1 initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-        Мини игра 💕
+        Пробуй ответить Самира 😏 
       </motion.h1>
 
       <motion.h2 key={step} initial={{ scale: 0.8 }} animate={{ scale: 1 }}>
